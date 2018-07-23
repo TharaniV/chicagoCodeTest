@@ -1,0 +1,18 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "chicagocodetest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "author": "tharani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fast-csv": "^2.4.1",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {}
+}
